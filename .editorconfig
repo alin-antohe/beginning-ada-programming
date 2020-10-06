@@ -12,3 +12,6 @@ insert_final_newline = true
 
 [*.{md,markdown}]
 trim_trailing_whitespace = false
+
+[*.{ads,adb}]
+indent_size = 3
